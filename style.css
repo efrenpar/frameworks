@@ -1,0 +1,26 @@
+
+
+.col-md-2, .col-md-2 div {
+	margin:15px;
+	
+	
+	
+}
+
+.escritor{
+	
+	text-align: justify;
+}
+
+.escritor:hover, #activado+div, div[atributo = "seleccionado"] {
+	
+	background-color: #828282;
+	cursor: pointer;
+}
+
+
+
+#activado+div {
+	
+	margin-top: 0px;
+}
